@@ -9,7 +9,6 @@ venv/
 
 # Dataset and model files
 data/
-asl_reference_photos/
 model.pickle
 data.pickle
 
