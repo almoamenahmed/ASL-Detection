@@ -20,6 +20,15 @@ This project recognizes American Sign Language (ASL) letters in real-time using 
 
 ---
 
+## Usage Instructions
+1. **Start the Application**: Run gui.py to launch the Tkinter-based GUI.
+2. **Data Collection**: Click Start Data Collection to capture images for each ASL letter. Follow the on-screen instructions to collect data for all letters.
+3. **Create Dataset**: Click Create Dataset to process the collected images into a usable dataset.
+4. **Train the Model**: Click Train Classifier to train the Random Forest Classifier on the dataset. Training accuracy will be displayed in the status log.
+5. **Live ASL Detection**: Click Start Detection to begin real-time ASL recognition using your webcam.
+
+---
+
 ## Setup and Installation
 
 ### **Requirements**
