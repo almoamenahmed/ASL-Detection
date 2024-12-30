@@ -1,0 +1,23 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+
+# Dataset and model files
+data/
+model.pickle
+data.pickle
+
+# Mediapipe cache
+.cache/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
